@@ -18,3 +18,4 @@ int main() {
    if (durum==0)cout<<"Malesef Bulamadim!";
   return 0;
 }
+//Bilgisayar tekrar aynı tahminlerde bulunabiliyor
